@@ -1,2 +1,3 @@
-# vue-3-course
-Vue Course 🖖🏻
+# Vue 3 Course ❇️
+
+This repo is used for a Vue 3 course.
